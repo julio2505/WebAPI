@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\asignacionlistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\asignacionlistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\inscripcioneslistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\inscripcioneslistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\data\\asignacionesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\asignacionesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\asginacioneslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\asginacioneslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\inscripcioneslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\inscripcioneslista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\data\\inscripcionesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\inscripcionesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\maestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\maestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\data\\cursodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\cursodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\data\\maestrodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\maestrodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\maestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\data\\alumnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\alumnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|d:\\angular y .net\\villamagica\\escuela\\webapi\\webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D570C3DD-E2F0-4C81-BC10-64B94712A105}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsignacionListaController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\AsignacionListaController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AsignacionListaController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\AsignacionListaController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AsignacionListaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:16:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:46:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CursoData.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\CursoData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\CursoData.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\CursoData.cs",
+              "RelativeToolTip": "WebAPI\\Data\\CursoData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:02:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InscripcionesLista.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\InscripcionesLista.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\InscripcionesLista.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\InscripcionesLista.cs",
+              "RelativeToolTip": "WebAPI\\Models\\InscripcionesLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:58:40.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaestroController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\MaestroController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\MaestroController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\MaestroController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\MaestroController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:28:09.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InscripcionesListaController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\InscripcionesListaController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\InscripcionesListaController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\InscripcionesListaController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\InscripcionesListaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:08:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsginacionesLista.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\AsginacionesLista.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\AsginacionesLista.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\AsginacionesLista.cs",
+              "RelativeToolTip": "WebAPI\\Models\\AsginacionesLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:09:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsignacionesData.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\AsignacionesData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\AsignacionesData.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\AsignacionesData.cs",
+              "RelativeToolTip": "WebAPI\\Data\\AsignacionesData.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAnwMkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:28:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Maestro.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Maestro.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Maestro.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Maestro.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Maestro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:20:10.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CursoController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:28:16.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InscripcionesData.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\InscripcionesData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\InscripcionesData.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\InscripcionesData.cs",
+              "RelativeToolTip": "WebAPI\\Data\\InscripcionesData.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAuwLwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:10:43.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asignaciones.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Asignaciones.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Asignaciones.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Asignaciones.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Asignaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:26:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AsignacionesController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\AsignacionesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AsignacionesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:46:32.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaestroData.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\MaestroData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\MaestroData.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\MaestroData.cs",
+              "RelativeToolTip": "WebAPI\\Data\\MaestroData.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwBQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:21:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inscripciones.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Inscripciones.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Inscripciones.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Inscripciones.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Inscripciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:11:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Curso.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Curso.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:47:25.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AlumnoController.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:03:08.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Alumno.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Models\\Alumno.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:51:47.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlumnoData.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\AlumnoData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\AlumnoData.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\AlumnoData.cs",
+              "RelativeToolTip": "WebAPI\\Data\\AlumnoData.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:53:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\Conexion.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\Data\\Conexion.cs",
+              "RelativeToolTip": "WebAPI\\Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:53:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\ANGULAR Y .NET\\VillaMagica\\Escuela\\WebAPI\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:40:53.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
